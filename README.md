@@ -1,6 +1,8 @@
 # Trabalho-de-POO
 Projeto para Composição de Nota da AB2 em POO 2025...
 
+Vídeo: https://youtu.be/Vta3VvkxmTs
+
 Para complementar o Diagrama de Classes, segue cada Classe com seus Respectivos Parâmetros:
 
 Entities (Models):
